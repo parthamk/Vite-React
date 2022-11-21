@@ -9,6 +9,7 @@ Vite is a build tool that promotes a faster development experience for developer
 npm init vite
 
 We need to add a project and package name, as demonstrated below:
+
 ![image](https://user-images.githubusercontent.com/110169184/203142502-828ef7ac-babd-4549-9e7b-1552066fc955.png)
 
 We then need to select React as the framework and variant:
